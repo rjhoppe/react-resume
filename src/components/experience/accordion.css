@@ -4,8 +4,8 @@
     justify-content: center;
     align-items: center;
     transform: translate(+50%);
-    margin-top: -700px;
-    padding-bottom: 50px;
+    margin-top: 300px;
+    padding-bottom: 100px;
 }
 
 /* .accordion__title h2 {
@@ -48,9 +48,9 @@
 } */
 
 
-.accordion__faq-heading .active {
-    /* color: red; */
-}
+/* .accordion__faq-heading .active {
+    color: red; 
+} */
 
 .accordion__faq P {
     margin: 0px;

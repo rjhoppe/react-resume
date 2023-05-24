@@ -3,12 +3,13 @@ import './portfolio.css'
 
 const Portfolio = () => {
   return (
-    <div className='portfolio'>
-        <div className='portfolio__container'>
-        </div>
-    </div>
-
-    
+    <body> 
+      <div className='portfolio'>
+          <div className='portfolio__container'>
+            <h2>My Projects</h2>
+          </div>
+      </div>
+    </body> 
   )
 }
 
