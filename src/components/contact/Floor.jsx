@@ -2,7 +2,10 @@ import React from 'react'
 
 const Floor = () => {
   return (
-    <div>Floor</div>
+    <body>
+        <div className="floor__container">           
+        </div>
+    </body>
   )
 }
 

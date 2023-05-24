@@ -5,14 +5,16 @@ import Floor from './Floor'
 
 const Contact = () => {
   return (
-    <body>
-      <div className='contact'>
-        <div className='contact__container'>
-          <h2>Contact Me</h2>
+    <main>
+      <body>
+        <div className='contact'>
+          <div className='contact__container'>
+            <h2>Contact Me</h2>
+          </div>
         </div>
-      </div>
+      </body>
       <Floor />
-    </body>
+    </main>
   )
 }
 
